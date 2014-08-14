@@ -1,0 +1,26 @@
+*  {
+	margin:0;
+	padding:0;
+}
+ 
+html, body {
+            background:#ccc;            
+}
+ 
+.geral {
+	min-height:100%;
+	position:relative;
+	width:800px;
+    margin:0;
+}
+ 
+.footer {
+    width:100%;
+   	bottom:0;
+    background-color:red;
+} 
+.content {overflow:hidden;        
+}
+.aside {width:20%; padding:10px; height:100%;}
+.fleft {float:left;}
+.fright {float:right;}
